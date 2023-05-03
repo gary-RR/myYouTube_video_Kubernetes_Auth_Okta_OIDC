@@ -1,1 +1,1 @@
-# myYouTube_video_Kubernetes_Auth_Okta_OIDC
+# Scripts for my Kubernetes OIDC authentication: https://youtu.be/M9KABid_sCY
